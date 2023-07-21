@@ -110,17 +110,18 @@ def Ask_Bard(Query):
 def WhatsApp():
     speak("For Whom should i send message")
     Contacts = {
-        'mom': 6301967883,
-        'friend': 7569140655,
-        'me': 8106806209,
-        'jayaram': 9963409321,
-        'topper' : 9290095935  #shyam number
+        'mom': 789XXXXXXX,
+        'friend': 756XXXXXXX,
+        'me': 810XXXXXXX,
+        'jay': 996XXXXXXX,
+        'tory' : 92XXXXXXX 
     }
     to = takeCommand()
     speak("what message should i send")
     msg = takeCommand()
     speak(f"sending message to {to}")
     try:
+        # change your phone country code mine is +91
         pwt.sendwhatmsg_instantly(f"+91{Contacts[to]}", msg)
     except Exception as e:
         speak("error sending message")
