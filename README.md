@@ -73,7 +73,7 @@ While this Voice Assistant is functional, it has some limitations and areas for 
 
 ### Seeking Improvements
 
-If you have any suggestions or improvements to enhance the Voice Assistant, feel free to contribute to the code. The GitHub repository for the project is [Voice Assistant](https://github.com/username/voice-assistant](https://github.com/LikithMeruvu/Jarvis_AI)).
+If you have any suggestions or improvements to enhance the Voice Assistant, feel free to contribute to the code. The GitHub repository for the project is [Voice Assistant]([https://github.com/LikithMeruvu/Jarvis_AI]).
 
 Your contributions are valuable and can help make the Voice Assistant more efficient and user-friendly.
 
