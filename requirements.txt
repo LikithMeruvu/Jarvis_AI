@@ -1,0 +1,7 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+google-generativeai
+python-dotenv
+pyaudio
